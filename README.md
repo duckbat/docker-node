@@ -14,3 +14,12 @@
 
 ### Step 4:
 - Dockerize project without showing sensitive data by using docker init and modifying Dockerfile and compose
+
+## Screenshots
+
+### Composing project
+![Docker Watch](/screenshots/2024-08-30%2023.15.19.jpg)
+### Fetching animals from API
+![API fetching](/screenshots/2024-08-30%2023.15.42.jpg)
+### API's main page
+![API working](/screenshots/2024-08-30%2023.15.49.jpg)
